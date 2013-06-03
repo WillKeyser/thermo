@@ -1,4 +1,4 @@
 thermo
 ======
 
-AVR Thermostat
+My AVR Thermostat: A summer project to occupy a budding genius
